@@ -20,16 +20,23 @@ I'm driven by a desire to create meaningful technology that improves people's li
 + 🌱 Currently learning: Machine Learning and AI Integration
 
 ## 🔑 Key Skills and Technologies
+- **Languages:** 
 ![Static Badge](https://img.shields.io/badge/HTML%20-orange?style=for-the-badge&logo=html5&logoColor=white)
+
 ![Static Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css&logoColor=white)
+
 ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+
 ![Static Badge](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=%233776AB)
+
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-orange?style=for-the-badge&logo=cplusplus&logoColor=%2300599C)
+
 ![Static Badge](https://img.shields.io/badge/Swift-lightblue?style=for-the-badge&logo=swift&logoColor=%23F05138)
 
 ## 📌 Notable Projects
 
 ## 📫 Let's Connect! 
+Feel free to reach out to collaborate or just say hi! 
 <!-- Social Media Handles --> 
   <a href="https://www.linkedin.com/in/nicolecindylucas">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt="https://www.linkedin.com/in/daltonlima"/>
