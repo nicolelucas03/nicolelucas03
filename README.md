@@ -24,21 +24,25 @@ I'm driven by a desire to create meaningful technology that improves people's li
 
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://img.shields.io/badge/HTML%20-orange?style=for-the-badge&logo=html5&logoColor=white"    alt="https://developer.mozilla.org/en-US/docs/Web/HTML"/>
-  
-    ![Static Badge](https://img.shields.io/badge/HTML%20-orange?style=for-the-badge&logo=html5&logoColor=white)
+    
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css&logoColor=white"    alt="https://developer.mozilla.org/en-US/docs/Web/CSS"/>
 
-    ![Static Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css&logoColor=white)
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white"    alt="https://developer.mozilla.org/en-US/docs/Web/JavaScript"/>
 
-    ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+    <a href="https://docs.python.org/3/">
+    <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=%233776AB"    alt="https://docs.python.org/3/"/>
 
-    ![Static Badge](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=%233776AB)
+    <a href="https://cplusplus.com/">
+    <img src="https://img.shields.io/badge/C%2B%2B-orange?style=for-the-badge&logo=cplusplus&logoColor=%2300599C"    alt="https://cplusplus.com/"/>
 
-    ![Static Badge](https://img.shields.io/badge/C%2B%2B-orange?style=for-the-badge&logo=cplusplus&logoColor=%2300599C)
+    <a href="https://www.swift.org/documentation/">
+    <img src="https://img.shields.io/badge/Swift-lightblue?style=for-the-badge&logo=swift&logoColor=%23F0513"    alt="https://www.swift.org/documentation/"/>
 
-    ![Static Badge](https://img.shields.io/badge/Swift-lightblue?style=for-the-badge&logo=swift&logoColor=%23F05138)
-
-    ![Static Badge](https://img.shields.io/badge/PHP-%20lightgray?style=for-the-badge&logo=php&logoColor=%23777BB4)
-
+    <a href="https://www.php.net/docs.php">
+    <img src="https://img.shields.io/badge/PHP-%20lightgray?style=for-the-badge&logo=php&logoColor=%23777BB4"    alt="https://www.php.net/docs.php"/>
+        
 
 - **Frameworks/Tools:**
 
