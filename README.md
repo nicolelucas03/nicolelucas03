@@ -20,8 +20,9 @@ I'm driven by a desire to create meaningful technology that improves people's li
 + 🌱 Currently learning: Machine Learning and AI Integration
 
 ## 🔑 Key Skills and Technologies
-- **Languages:** 
-![Static Badge](https://img.shields.io/badge/HTML%20-orange?style=for-the-badge&logo=html5&logoColor=white)
+- **Languages:**
+  
+    ![Static Badge](https://img.shields.io/badge/HTML%20-orange?style=for-the-badge&logo=html5&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css&logoColor=white)
 
