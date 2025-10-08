@@ -1,18 +1,5 @@
-## Hi there 👋
-
 <!--
 **nicolelucas03/nicolelucas03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 ## ⭐ About Me
@@ -21,9 +8,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt="https://www.linkedin.com/in/daltonlima"/>
   </a>
 
-Hey there, 
-I'm Nicole Lucas, a software engineer passionate about building impactful web applications and solving real-world problems. I recently graduated from Washington University in St. Louis with a major in Computer Science and minor in Human-Computer Interaction. 
-
+Hey there! 👋 I'm **Nicole Lucas**, a software engineer passionate about building impactful web applications and solving real-world problems through technology. I recently graduated from **Washington University in St. Louis**, where I majored in **Computer Science** and minored in **Human-Computer Interaction**.
 
 ## 🔑 Key Skills and Technologies
 ![Static Badge](https://img.shields.io/badge/HTML%20-orange?style=for-the-badge&logo=html5&logoColor=white)
