@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## ⭐ About Me
+<!-- Social Media Handles --> 
   <a href="https://www.linkedin.com/in/nicolecindylucas">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt="https://www.linkedin.com/in/daltonlima"/>
   </a>
@@ -25,6 +26,7 @@ I'm Nicole Lucas, a software engineer passionate about building impactful web ap
 
 
 ## 🔑 Key Skills and Technologies
+![Static Badge](https://img.shields.io/badge/HTML%20-yellow?style=for-the-badge&logo=html5)
 
 ## 📌 Notable Projects
 
