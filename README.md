@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 -->
 
 ## ⭐ About Me
-
-![Static Badge](https://img.shields.io/badge/LinkedIn%20-%20blue?style=for-the-badge&logoSize=amd%20&link=www.linkedin.com%2Fin%2Fnicolecindylucas)
+  <a href="www.linkedin.com/in/nicolecindylucas">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt="https://www.linkedin.com/in/daltonlima"/>
+  </a>
 
 Hey there, 
 I'm Nicole Lucas, a software engineer passionate about building impactful web applications and solving real-world problems. I recently graduated from Washington University in St. Louis with a major in Computer Science and minor in Human-Computer Interaction. 
