@@ -1,5 +1,3 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-
 ## Hi there 👋
 
 <!--
@@ -18,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## ⭐ About Me
-  <a href="www.linkedin.com/in/nicolecindylucas">
+  <a href="https://www.linkedin.com/in/nicolecindylucas">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt="https://www.linkedin.com/in/daltonlima"/>
   </a>
 
