@@ -8,7 +8,7 @@ Hey there! 👋
 I'm **Nicole Lucas**, a software engineer passionate about building impactful web applications and solving real-world problems through technology. I recently graduated from **Washington University in St. Louis**, where I majored in **Computer Science** and minored in **Human-Computer Interaction**.
 
 💻 **What I Do**  
-- I specialize in developing user-friendly and accessible web applications.  
+- I specialize in developing user-friendly and accessible front-end applications.
 - I enjoy tackling challenging problems and designing solutions that make a difference.
 
 🚀 **What Drives Me**  
@@ -18,6 +18,7 @@ I'm driven by a desire to create meaningful technology that improves people's li
 - 🏃‍♀️ I enjoy running! My goal is to complete a 10K or Half Marathon in every state across the US.
 * 📚 I love reading novels - Feel free to drop recommendations! 
 + 🌱 Currently learning: Machine Learning and AI Integration
++ 🧬 Where I see myself: My long-term goal is to go into the field of Bioinformatics!
 
 ## 🔧 Tech Stack & Skills
 - **Languages:**
