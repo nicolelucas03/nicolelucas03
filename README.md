@@ -75,9 +75,11 @@ Feel free to reach out to collaborate or just say hi!
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt="https://www.linkedin.com/in/daltonlima"/>
   </a>
 
+
   <a href="https://www.instagram.com/nicolelucas03/">
     <img src="https://img.shields.io/badge/Instagram-%20purple?style=for-the-badge&logo=instagram"  alt="https://www.instagram.com/nicolelucas03/"/>
   </a>
+
 
   <a href="mailto:nicoleclucas003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%20orange?style=for-the-badge&logo=gmail"  alt="mailto:nicoleclucas003@gmail.com"/>
