@@ -34,7 +34,22 @@ I'm driven by a desire to create meaningful technology that improves people's li
 
     ![Static Badge](https://img.shields.io/badge/Swift-lightblue?style=for-the-badge&logo=swift&logoColor=%23F05138)
 
+    ![Static Badge](https://img.shields.io/badge/PHP-%20lightgray?style=for-the-badge&logo=php&logoColor=%23777BB4)
+
+
 - **Frameworks/Tools:**
+    ![Static Badge](https://img.shields.io/badge/Git-%20darkyellow?style=for-the-badge&logo=git&logoColor=%23F05032)
+
+    ![Static Badge](https://img.shields.io/badge/Arduino-%20lightgray?style=for-the-badge&logo=arduino&logoColor=%2300878F)
+
+    ![Static Badge](https://img.shields.io/badge/Figma-%20purple?style=for-the-badge&logo=figma&logoColor=%23F24E1E)
+
+    ![Static Badge](https://img.shields.io/badge/Pandas-%20gray?style=for-the-badge&logo=pandas&logoColor=%23150458)
+
+    ![Static Badge](https://img.shields.io/badge/Unity-%20darkblue?style=for-the-badge&logo=unity&logoColor=%23FFFFFF)
+
+    ![Static Badge](https://img.shields.io/badge/Netlify-%20orange?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
+
 
 - **Others:**
 
