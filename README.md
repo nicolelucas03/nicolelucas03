@@ -3,7 +3,7 @@
 -->
 
 ## About Me
-Hey there! 👋 
+Hola! 👋 
 
 I'm **Nicole Lucas**, a software engineer passionate about building impactful web applications and solving real-world problems through technology. I recently graduated from **Washington University in St. Louis**, where I majored in **Computer Science** and minored in **Human-Computer Interaction**.
 
