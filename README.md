@@ -26,7 +26,9 @@ I'm Nicole Lucas, a software engineer passionate about building impactful web ap
 
 
 ## 🔑 Key Skills and Technologies
-![Static Badge](https://img.shields.io/badge/HTML%20-yellow?style=for-the-badge&logo=html5)
+![Static Badge](https://img.shields.io/badge/HTML%20-orange?style=for-the-badge&logo=html5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css&logoColor=white)
+![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## 📌 Notable Projects
 
