@@ -21,6 +21,9 @@ I'm driven by a desire to create meaningful technology that improves people's li
 
 ## 🔧 Tech Stack & Skills
 - **Languages:**
+
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/HTML%20-orange?style=for-the-badge&logo=html5&logoColor=white"    alt="https://developer.mozilla.org/en-US/docs/Web/HTML"/>
   
     ![Static Badge](https://img.shields.io/badge/HTML%20-orange?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -38,6 +41,7 @@ I'm driven by a desire to create meaningful technology that improves people's li
 
 
 - **Frameworks/Tools:**
+
     ![Static Badge](https://img.shields.io/badge/Git-%20darkyellow?style=for-the-badge&logo=git&logoColor=%23F05032)
 
     ![Static Badge](https://img.shields.io/badge/Arduino-%20lightgray?style=for-the-badge&logo=arduino&logoColor=%2300878F)
