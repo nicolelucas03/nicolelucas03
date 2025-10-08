@@ -22,6 +22,7 @@ Hey there,
 
 I'm Nicole Lucas, a software engineer passionate about building impactful web applications and solving real-world problems. I recently graduated from Washington University in St. Louis with a major in Computer Science and minor in Human-Computer Interaction. 
 
+GET /badge/:badgeContent
 ![Static Badge](https://img.shields.io/badge/Linkedin-www.linkedin.com%2Fin%2Fnicolecindylucas)
 
 
