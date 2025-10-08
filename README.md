@@ -1,3 +1,5 @@
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+
 ## Hi there 👋
 
 <!--
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hey there, 
+
+I'm Nicole Lucas, a software engineer passionate about building impactful web applications and solving real-world problems. I recently graduated from Washington University in St. Louis with a major in Computer Science and minor in Human-Computer Interaction. 
+
+
