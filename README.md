@@ -17,8 +17,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## ⭐ About Me
 Hey there, 
 
 I'm Nicole Lucas, a software engineer passionate about building impactful web applications and solving real-world problems. I recently graduated from Washington University in St. Louis with a major in Computer Science and minor in Human-Computer Interaction. 
 
+## 🔑 Key Skills and Technologies
 
+## 📌 Notable Projects
+
+## 🌀Fun Facts
+- 🏃‍♀️ I enjoy running! My goal is to complete a 10K or Half Marathon in every state across the US.
+* 📚 I love reading novels - Feel free to drop recommendations! 
++ 🌱 Currently learning: Machine Learning and AI Integration
