@@ -71,16 +71,12 @@ I'm driven by a desire to create meaningful technology that improves people's li
 ## 📫 Let's Connect! 
 Feel free to reach out to collaborate or just say hi! 
 <!-- Social Media Handles --> 
-  <a href="https://www.linkedin.com/in/nicolecindylucas">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt="https://www.linkedin.com/in/daltonlima"/>
-  </a>
-
-
-  <a href="https://www.instagram.com/nicolelucas03/">
-    <img src="https://img.shields.io/badge/Instagram-%20purple?style=for-the-badge&logo=instagram"  alt="https://www.instagram.com/nicolelucas03/"/>
-  </a>
-
-
-  <a href="mailto:nicoleclucas003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%20orange?style=for-the-badge&logo=gmail"  alt="mailto:nicoleclucas003@gmail.com"/>
-  </a>
+<a href="https://www.linkedin.com/in/nicolecindylucas">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/nicolelucas03/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="mailto:nicoleclucas003@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
