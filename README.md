@@ -3,7 +3,6 @@
 -->
 
 # Hi, I'm Nicole!
-[![Header]()
 <img width="1892" height="750" alt="header_profile" src="https://github.com/user-attachments/assets/85bf1182-6106-408c-85fd-7eeabfaf4026" />
 
 ## About Me
