@@ -68,7 +68,7 @@ I'm driven by a desire to create meaningful technology that improves people's li
     ![Static Badge](https://img.shields.io/badge/Netlify-%20orange?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
 
 
-## 📌 Notable Projects
+<!--## 📌 Notable Projects-->
 
 ## 📫 Let's Connect! 
 Feel free to reach out to collaborate or just say hi! 
