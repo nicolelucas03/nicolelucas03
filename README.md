@@ -2,7 +2,7 @@
 **nicolelucas03/nicolelucas03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img width="1892" height="650" alt="header_profile" src="https://github.com/user-attachments/assets/85bf1182-6106-408c-85fd-7eeabfaf4026" />
+<img width="1792" height="550" alt="header_profile" src="https://github.com/user-attachments/assets/85bf1182-6106-408c-85fd-7eeabfaf4026" />
 
 ## About Me
 Hey there! 👋 
