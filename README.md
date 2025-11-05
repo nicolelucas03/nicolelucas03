@@ -19,7 +19,7 @@ I'm driven by a desire to create meaningful technology that improves people's li
 ✨ **Fun Facts**
 + 🏃‍♀️ I enjoy running! My goal is to complete a 10K or Half Marathon in every state across the US.
 + 📚 I love reading novels - Feel free to drop recommendations! 
-+ 🌱 Currently learning: Machine Learning and AI Integration
++ 🌱 Currently learning: Data-driven Decision Making
 + 🧬 Where I see myself: My long-term goal is to go into the field of Bioinformatics!
 
 ## 🔧 Tech Stack & Skills
