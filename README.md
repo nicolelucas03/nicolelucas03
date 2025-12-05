@@ -27,15 +27,12 @@ I'm driven by a desire to create meaningful technology that improves people's li
 
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://img.shields.io/badge/HTML%20-orange?style=for-the-badge&logo=html5&logoColor=white"    alt="https://developer.mozilla.org/en-US/docs/Web/HTML"/> 
-    <br>
         
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css&logoColor=white"    alt="https://developer.mozilla.org/en-US/docs/Web/CSS"/>
-    <br>
         
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white"    alt="https://developer.mozilla.org/en-US/docs/Web/JavaScript"/>
-    <br>
         
     <a href="https://docs.python.org/3/">
     <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=%233776AB"    alt="https://docs.python.org/3/"/>
