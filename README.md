@@ -70,7 +70,6 @@ I'm driven by a desire to create meaningful technology that improves people's li
     ![Static Badge](https://img.shields.io/badge/Scikit--learn-%20orange?style=for-the-badge&logo=scikitlearn&logoColor=%23F7931E)
     ![Static Badge](https://img.shields.io/badge/Plotly-%20darkblue?style=for-the-badge&logo=plotly&logoColor=white)
     ![Static Badge](https://img.shields.io/badge/Streamlit-%20red?style=for-the-badge&logo=streamlit&logoColor=white)
-    ![Static Badge](https://img.shields.io/badge/Unity-%20darkblue?style=for-the-badge&logo=unity&logoColor=%23FFFFFF)
 
 - **Tools & Platforms:**
 
@@ -84,6 +83,7 @@ I'm driven by a desire to create meaningful technology that improves people's li
     ![Static Badge](https://img.shields.io/badge/Arduino-%20lightgray?style=for-the-badge&logo=arduino&logoColor=%2300878F)
     ![Static Badge](https://img.shields.io/badge/Figma-%20purple?style=for-the-badge&logo=figma&logoColor=%23F24E1E)
     ![Static Badge](https://img.shields.io/badge/Netlify-%20orange?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
+    ![Static Badge](https://img.shields.io/badge/Unity-%20darkblue?style=for-the-badge&logo=unity&logoColor=%23FFFFFF)
 
 
 <!--## 📌 Notable Projects-->
