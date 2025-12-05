@@ -4,7 +4,7 @@
 
 <img width="1592" height="350" alt="header_profile" src="https://github.com/user-attachments/assets/85bf1182-6106-408c-85fd-7eeabfaf4026" />
 
-## About Me
+# About Me
 Hey there! 👋 
 
 I'm **Nicole Lucas**, a software engineer passionate about building impactful web applications and solving real-world problems through technology. I recently graduated from **Washington University in St. Louis**, where I majored in **Computer Science** and minored in **Human-Computer Interaction**. Feel free to visit my [personal website](https://nicolelucas03.github.io/personal_website/) to learn more about me!
@@ -22,7 +22,7 @@ I'm driven by a desire to create meaningful technology that improves people's li
 + 🌱 Currently learning: Data-driven Decision Making
 + 🧬 Where I see myself: My long-term goal is to go into the field of Data or Bioinformatics!
 
-## 🔧 Tech Stack & Skills
+# 🔧 Tech Stack & Skills
 - **Languages:**
 
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
@@ -71,7 +71,7 @@ I'm driven by a desire to create meaningful technology that improves people's li
 <!--## 📌 Notable Projects-->
 
 
-## 📫 Let's Connect! 
+# 📫 Let's Connect! 
 Feel free to reach out to collaborate or just say hi! 
 <!-- Social Media Handles --> 
 <a href="https://www.linkedin.com/in/nicolecindylucas">
