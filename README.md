@@ -12,6 +12,7 @@ I'm **Nicole Lucas**, a software engineer passionate about building impactful we
 💻 **What I Do**  
 - I specialize in developing user-friendly and accessible front-end applications.
 - I enjoy tackling challenging problems and designing solutions that make a difference.
+- I love working with data and translating them into beautiful visuals that are accessible for users.
 
 🚀 **What Drives Me**  
 I'm driven by a desire to create meaningful technology that improves people's lives. My background in Human-Computer Interaction fuels my passion for designing intuitive experiences that bridge the gap between users and technology.
