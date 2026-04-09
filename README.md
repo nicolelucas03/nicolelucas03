@@ -18,8 +18,7 @@ I'm **Nicole Lucas**, a software engineer passionate about building impactful we
 I'm driven by a desire to create meaningful technology that improves people's lives. My background in Human-Computer Interaction fuels my passion for designing intuitive experiences that bridge the gap between users and technology.
 
 ✨ **Fun Facts**
-+ 🏃‍♀️ I enjoy running! My goal is to complete a 10K or Half Marathon in every state across the US.
-+ 📚 I love reading novels and watching movies - Feel free to drop recommendations!
++ Interests: faith, reading, running, and movies!
 
 # 🔧 Tech Stack & Skills
 - **Languages:**
