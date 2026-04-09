@@ -21,9 +21,9 @@ I'm driven by a desire to create meaningful technology that improves people's li
 
 Interests: faith, reading, running, and movies!
 + I serve at my church's digital ministry by helping manage their social media and maintain their website.
-+ Always training for my next race! 5K, 10K, Half marathon done! Full marathon left to try!
-+ I love reading novels! Favorite books: James (Everett), Parable of the Sower (Butler)
-+ I enjoy watching movies in my free time! Favorite Movies: La La Land, The Dark Night, The Wild Robot, Monster (Hirokazu Kore-eda) 
++ 5K, 10K, Half marathon done! Full marathon left to try!
++ Favorite books: James (Everett), Parable of the Sower (Butler)
++ Favorite movies: La La Land, The Dark Night, The Wild Robot, Monster (Hirokazu Kore-eda) 
 
 # 🔧 Tech Stack & Skills
 - **Languages:**
