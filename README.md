@@ -19,11 +19,10 @@ I'm driven by a desire to create meaningful technology that improves people's li
 
 ✨ **Fun Facts**
 
-Interests: faith, reading, running, and movies!
+Interests: faith, reading & running!
 + I serve at my church's digital ministry by helping manage their social media and maintain their website.
 + 5K, 10K, Half marathon done! Full marathon left to try!
-+ Favorite books: James (Everett), Parable of the Sower (Butler)
-+ Favorite movies: La La Land, The Dark Night, The Wild Robot, Monster (Hirokazu Kore-eda) 
++ Current Reading: When the Cranes Fly South
 
 # 🔧 Tech Stack & Skills
 - **Languages:**
