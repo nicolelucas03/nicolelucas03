@@ -22,7 +22,7 @@ I'm driven by a desire to create meaningful technology that improves people's li
 Interests: faith, reading & running!
 + I serve at my church's digital ministry by helping manage their social media and maintain their website.
 + 5K, 10K, Half marathon done! Full marathon left to try!
-+ Current Reading: When the Cranes Fly South
++ Currently Reading: One Day We, Everyone Will Have Always Been Against This
 
 # 🔧 Tech Stack & Skills
 - **Languages:**
